@@ -67,4 +67,4 @@ Before getting started, make sure you are familiar with:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-app-with-timer.git
+   git clone https://github.com/kavinda9210/QuizApp
